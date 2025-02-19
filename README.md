@@ -1,2 +1,2 @@
 # GoLangHandbook
-Published in 2021
+Initially written in 2021
